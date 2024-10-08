@@ -3,9 +3,7 @@
 ![snake](https://github.com/user-attachments/assets/0ebc1492-ea29-4007-bceb-8020ddf64e3c)
 ###
 
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D5603AQE7EF5LaYQ7Ng/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723553168970?e=1733961600&v=beta&t=DJI6eWpcpFf7qnmuCwCu3pBPkBymPYTJ3Q-8Paxewy4"  />
-</div>
+
 
 ###
 <h1 align="center">Hi 👋, I'm Himangshu Sharma</h1>
