@@ -54,7 +54,6 @@ LANGUAGES KNOWN:
 ![](https://github-contributor-stats.vercel.app/api?username=hs202022&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![hs202022's GitHub | Stats](https://stats.quine.sh/hs202022/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ojas-Arora)
 
 [![hs202022's GitHub | Languages Over Time](https://stats.quine.sh/hs202022/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hs202022)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
