@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
 
-<p align="center"> ![snake](https://github.com/user-attachments/assets/0ebc1492-ea29-4007-bceb-8020ddf64e3c)</p>
+   ![snake](https://github.com/user-attachments/assets/0ebc1492-ea29-4007-bceb-8020ddf64e3c)
 ###
 
 
