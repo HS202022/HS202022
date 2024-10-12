@@ -57,5 +57,8 @@ LANGUAGES KNOWN:
 
 
 [![hs202022's GitHub | Languages Over Time](https://stats.quine.sh/hs202022/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hs202022)
+
+
+<a href="https://holopin.me/@hs202022">   <img src="https://www.holopin.io/@hs202022#badge" alt="@HS202022 Holopin board" /> </a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
