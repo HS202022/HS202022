@@ -10,7 +10,7 @@
 <h3 align="center">1st Year Student CSE (AI ML) | JAVA | HTML | CSS | BOOTSTRAP | JAVASCRIPT | Currently Learning DSA in JAVA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hs202022&label=Profile%20views&color=0e75b6&style=flat" alt="hs202022" /> </p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hs202022&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Himangshu's GitHub Streak" /></p>
+  <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=hs202022&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Himangshu's GitHub Streak" /></p>
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hs202022&theme=github_dark" />
@@ -59,6 +59,5 @@ LANGUAGES KNOWN:
 [![hs202022's GitHub | Languages Over Time](https://stats.quine.sh/hs202022/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hs202022)
 
 
-<a href="https://holopin.me/@hs202022">   <img src="https://www.holopin.io/@hs202022#badge" alt="@HS202022 Holopin board" /> </a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
