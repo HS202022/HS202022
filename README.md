@@ -61,4 +61,4 @@ LANGUAGES KNOWN:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-(https://holopin.me/hs202022)](https://holopin.io/@hs202022)
+[![An image of @hs202022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hs202022)](https://holopin.io/@hs202022)
